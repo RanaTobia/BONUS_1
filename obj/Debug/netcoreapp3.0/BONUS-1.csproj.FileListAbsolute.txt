@@ -1,0 +1,11 @@
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.exe
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.deps.json
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.runtimeconfig.json
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.runtimeconfig.dev.json
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.dll
+C:\Users\rtobia\source\repos\BONUS-1\bin\Debug\netcoreapp3.0\BONUS-1.pdb
+C:\Users\rtobia\source\repos\BONUS-1\obj\Debug\netcoreapp3.0\BONUS-1.csprojAssemblyReference.cache
+C:\Users\rtobia\source\repos\BONUS-1\obj\Debug\netcoreapp3.0\BONUS-1.AssemblyInfoInputs.cache
+C:\Users\rtobia\source\repos\BONUS-1\obj\Debug\netcoreapp3.0\BONUS-1.AssemblyInfo.cs
+C:\Users\rtobia\source\repos\BONUS-1\obj\Debug\netcoreapp3.0\BONUS-1.dll
+C:\Users\rtobia\source\repos\BONUS-1\obj\Debug\netcoreapp3.0\BONUS-1.pdb
